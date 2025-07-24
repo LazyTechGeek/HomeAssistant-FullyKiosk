@@ -9,3 +9,9 @@ https://github.com/LazyTechGeek/HomeAssistant-FullyKiosk/blob/main/start_tablet_
 
 # Automation (Start charging when battery > 85%:)
 https://github.com/LazyTechGeek/HomeAssistant-FullyKiosk/blob/main/stop_tablet_charging_above_85.yaml
+
+
+### 🔋 Automations
+
+- **[Start charging when battery < 30%](https://github.com/LazyTechGeek/HomeAssistant-FullyKiosk/blob/main/start_tablet_charging_below_30.yaml)**
+- **[Stop charging when battery > 85%](https://github.com/LazyTechGeek/HomeAssistant-FullyKiosk/blob/main/stop_tablet_charging_above_85.yaml)**
