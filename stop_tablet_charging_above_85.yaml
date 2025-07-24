@@ -1,0 +1,16 @@
+alias: Charge Stop When Tablet Battery Above 85%
+description: ""
+triggers:
+  - entity_id: sensor.dave_s_tab_a9_battery
+    above: 85
+    trigger: numeric_state
+conditions:
+  - condition: state
+    entity_id: switch.shelly1minig3_dcda0ce2f904_switch_0
+    state: "on"
+actions:
+  - target:
+      entity_id: switch.shelly1minig3_dcda0ce2f904_switch_0
+    action: switch.turn_off
+    data: {}
+mode: single

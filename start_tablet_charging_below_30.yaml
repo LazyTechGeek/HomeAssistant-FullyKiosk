@@ -1,0 +1,17 @@
+alias: Charge Start When Tablet Battery Below 30%
+description: ""
+triggers:
+  - entity_id:
+      - sensor.dave_s_tab_a9_battery
+    below: 30
+    trigger: numeric_state
+conditions:
+  - condition: state
+    entity_id: switch.shelly1minig3_dcda0ce2f904_switch_0
+    state: "off"
+actions:
+  - target:
+      entity_id: switch.shelly1minig3_dcda0ce2f904_switch_0
+    action: switch.turn_on
+    data: {}
+mode: single
