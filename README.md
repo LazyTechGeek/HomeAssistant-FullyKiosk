@@ -1,8 +1,6 @@
-# HomeAssistant-FullyKiosk
-Home Assistant Fully Kiosk
+#Home Assistant + Fully Kiosk: Step-by-Step Tablet Setup Guide
 
-🎵 Alexa Media Player – MP3 Converter Tool
-Convert your .mp3 files into a format compatible with Alexa Media Player in Home Assistant.
+Turn any tablet into a powerful Home Assistant dashboard with this easy step-by-step guide using Fully Kiosk Browser! Whether you're wall-mounting a tablet or repurposing an old one, this video walks you through everything you need — from choosing the right device to installing Fully Kiosk, linking it with Home Assistant, and even handling privacy concerns.
 video here: https://youtu.be/Jkkq9sz5s-k
 
 📥 Download
