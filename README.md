@@ -4,6 +4,9 @@ Turn any tablet into a powerful Home Assistant dashboard with this easy step-by-
 
 ▶️ [Watch the video here](https://youtu.be/jqGvk1v8W04)  
 
+### 🎨 PowerPoint slides of kiosk configuration
+- **[PowerPoint slides used in video](https://github.com/LazyTechGeek/HomeAssistant-FullyKiosk/blob/main/Kiosk_PowerPoint_Slides.pdf)**
+
 ### 🔋 Charging Automations
 
 - **[Start charging when battery < 30%](https://github.com/LazyTechGeek/HomeAssistant-FullyKiosk/blob/main/start_tablet_charging_below_30.yaml)**
